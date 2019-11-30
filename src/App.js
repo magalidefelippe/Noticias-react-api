@@ -25,7 +25,7 @@ class App extends Component {
   render() { 
   return ( 
   <Fragment>
-    <Header titulo='Noticias React API'/>
+    <Header titulo='Noticias React'/>
   
   <div className="container white contenedor-noticias">
   <Formulario
